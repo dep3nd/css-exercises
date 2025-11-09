@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+.E1, .E2 {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+    }
+
+.E1 {
+    background-color: black;
+    color: hsl(0, 0%, 100%);
+}
+
+.E2 {
+    background-color: #FFFF00;
+}|
